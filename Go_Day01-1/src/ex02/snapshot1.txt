@@ -1,0 +1,4 @@
+/Users/username/always_stay1.file
+/Users/username/always_stay2.file
+/Users/username/may_be_removed1.file
+/Users/username/may_be_removed2.file
